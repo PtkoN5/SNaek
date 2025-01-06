@@ -2,6 +2,7 @@ use winit::event::{Event, WindowEvent};
 use winit::event_loop::{ControlFlow, EventLoop};
 use winit::window::WindowBuilder;
 
+
 fn main() {
     // Create a new event loop
     let event_loop = EventLoop::new();
