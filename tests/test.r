@@ -10,3 +10,10 @@
 ### 3.5
 
 ### Aufgabe 4 
+###Data Allocation
+install datadb
+install numpy
+install ggplot
+library(readr)
+
+
